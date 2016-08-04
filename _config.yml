@@ -1,0 +1,14 @@
+layout_spectrum: 0.9102971882093698
+typography_spectrum: 0.8142019994556904
+color:
+  brandStrength: 0.16330060176551342
+  lightness: 0.5150904967449605
+  saturation: 0.8595023639500141
+  rhythmicContrast: 0.8738857212010771
+  brandColors:
+    - '#110002'
+    - '#005253'
+    - '#007F7D'
+    - '#870000'
+    - '#573824'
+name: ntone
